@@ -1,0 +1,32 @@
+{
+  "name": "fullstack-vue-graphql",
+  "version": "1.0.0",
+  "description": "FullStack Vue3 GraphQl Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceodevforce/fullstack-vue-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceodevforce/fullstack-vue-graphql/issues"
+  },
+  "homepage": "https://github.com/ceodevforce/fullstack-vue-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "graphql": "^16.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "mongoose": "^6.4.0"
+  },
+  "devDependencies": {
+    "concurrently": "^7.2.2",
+    "nodemon": "^2.0.16"
+  }
+}
